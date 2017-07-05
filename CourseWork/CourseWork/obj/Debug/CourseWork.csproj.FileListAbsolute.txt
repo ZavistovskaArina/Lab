@@ -1,0 +1,23 @@
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.Form2.resources
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+c:\users\arina\documents\visual studio 2015\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\University\САПР-2_1\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\University\САПР-2_1\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\University\САПР-2_1\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\University\САПР-2_1\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+D:\University\САПР-2_1\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+D:\University\САПР-2_1\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+D:\University\САПР-2_1\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+D:\University\САПР-2_1\CourseWork\CourseWork\obj\Debug\CourseWork.Form2.resources
+D:\University\САПР-2_1\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\University\САПР-2_1\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+D:\Documents\Arina\Source\Repos\Sapr\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\Documents\Arina\Source\Repos\Sapr\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\Documents\Arina\Source\Repos\Sapr\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
